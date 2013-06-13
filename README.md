@@ -34,3 +34,5 @@ What you need to do after downloading the ZIP
 18. Wait for temps to set
 19. Hit Print!
 20. Freak the fuck out!
+
+Wondering how it all went together, check this out, http://www.carlos-sanchez.com/Prusa3/ (NOTE: you will need to install Unity to view!)
